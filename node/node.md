@@ -32,3 +32,12 @@ console.log('끝');
 
 
 
+## 3. 노드 기능알아보기 
+
+1. REPL 사용하기 
+2. js파일 실행하기 
+   1. `node helloworld`  (helloworld.js파일 실행)
+3. 모듈로 만들기 
+   1. import, export default (ES2015모듈)
+4. 노드 내장객체 알아보기 
+   1. global
